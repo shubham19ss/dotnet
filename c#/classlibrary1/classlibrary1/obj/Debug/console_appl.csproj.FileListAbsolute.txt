@@ -1,0 +1,7 @@
+C:\Users\cdac\Desktop\c#\classlibrary1\classlibrary1\bin\Debug\classlibrary1.exe.config
+C:\Users\cdac\Desktop\c#\classlibrary1\classlibrary1\bin\Debug\classlibrary1.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\classlibrary1\bin\Debug\classlibrary1.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\classlibrary1\obj\Debug\console_appl.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Desktop\c#\classlibrary1\classlibrary1\obj\Debug\classlibrary1.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\classlibrary1\obj\Debug\classlibrary1.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\classlibrary1\bin\Debug\ClassLibrary2.dll

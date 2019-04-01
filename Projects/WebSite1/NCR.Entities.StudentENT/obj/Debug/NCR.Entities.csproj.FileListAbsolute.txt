@@ -1,0 +1,5 @@
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\WebSite1\NCR.Entities.StudentENT\bin\Debug\NCR.Entities.dll
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\WebSite1\NCR.Entities.StudentENT\bin\Debug\NCR.Entities.pdb
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\WebSite1\NCR.Entities.StudentENT\obj\Debug\NCR.Entities.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\WebSite1\NCR.Entities.StudentENT\obj\Debug\NCR.Entities.dll
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\WebSite1\NCR.Entities.StudentENT\obj\Debug\NCR.Entities.pdb

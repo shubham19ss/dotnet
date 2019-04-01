@@ -1,0 +1,6 @@
+C:\Users\cdac\Desktop\c#\classlibrary1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\cdac\Desktop\c#\classlibrary1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Desktop\c#\classlibrary1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

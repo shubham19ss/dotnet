@@ -1,0 +1,6 @@
+C:\Users\cdac\Desktop\c#\classlibrary1\exceptionhandling\bin\Debug\exceptionhandling.exe.config
+C:\Users\cdac\Desktop\c#\classlibrary1\exceptionhandling\bin\Debug\exceptionhandling.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\exceptionhandling\bin\Debug\exceptionhandling.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\exceptionhandling\obj\Debug\exceptionhandling.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Desktop\c#\classlibrary1\exceptionhandling\obj\Debug\exceptionhandling.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\exceptionhandling\obj\Debug\exceptionhandling.pdb

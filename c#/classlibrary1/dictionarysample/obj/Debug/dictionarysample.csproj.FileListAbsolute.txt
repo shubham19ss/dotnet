@@ -1,0 +1,6 @@
+C:\Users\cdac\Desktop\c#\classlibrary1\dictionarysample\bin\Debug\dictionarysample.exe.config
+C:\Users\cdac\Desktop\c#\classlibrary1\dictionarysample\bin\Debug\dictionarysample.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\dictionarysample\bin\Debug\dictionarysample.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\dictionarysample\obj\Debug\dictionarysample.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Desktop\c#\classlibrary1\dictionarysample\obj\Debug\dictionarysample.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\dictionarysample\obj\Debug\dictionarysample.pdb

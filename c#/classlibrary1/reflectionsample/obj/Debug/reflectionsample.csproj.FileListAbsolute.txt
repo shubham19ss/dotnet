@@ -1,0 +1,6 @@
+C:\Users\cdac\Desktop\c#\classlibrary1\reflectionsample\bin\Debug\reflectionsample.exe.config
+C:\Users\cdac\Desktop\c#\classlibrary1\reflectionsample\bin\Debug\reflectionsample.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\reflectionsample\bin\Debug\reflectionsample.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\reflectionsample\obj\Debug\reflectionsample.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Desktop\c#\classlibrary1\reflectionsample\obj\Debug\reflectionsample.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\reflectionsample\obj\Debug\reflectionsample.pdb

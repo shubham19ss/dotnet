@@ -1,0 +1,7 @@
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\NCR.StudenDB\bin\Debug\NCR.StudenDB.dll
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\NCR.StudenDB\bin\Debug\NCR.StudenDB.pdb
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\NCR.StudenDB\obj\Debug\NCR.StudenDB.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\NCR.StudenDB\obj\Debug\NCR.StudenDB.dll
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\NCR.StudenDB\obj\Debug\NCR.StudenDB.pdb
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\NCR.StudenDB\bin\Debug\NCR.Entities.dll
+C:\Users\cdac\Documents\Visual Studio 2015\Projects\NCR.StudenDB\bin\Debug\NCR.Entities.pdb

@@ -1,0 +1,6 @@
+C:\Users\cdac\Desktop\c#\classlibrary1\patrial calss\bin\Debug\patrial calss.exe.config
+C:\Users\cdac\Desktop\c#\classlibrary1\patrial calss\bin\Debug\patrial calss.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\patrial calss\bin\Debug\patrial calss.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\patrial calss\obj\Debug\patrial calss.csprojResolveAssemblyReference.cache
+C:\Users\cdac\Desktop\c#\classlibrary1\patrial calss\obj\Debug\patrial calss.exe
+C:\Users\cdac\Desktop\c#\classlibrary1\patrial calss\obj\Debug\patrial calss.pdb

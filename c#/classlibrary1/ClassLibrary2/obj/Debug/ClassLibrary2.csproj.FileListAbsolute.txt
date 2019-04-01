@@ -1,0 +1,4 @@
+C:\Users\cdac\Desktop\c#\classlibrary1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\cdac\Desktop\c#\classlibrary1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\cdac\Desktop\c#\classlibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\cdac\Desktop\c#\classlibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
